@@ -1744,7 +1744,7 @@ let IrcClient = class IrcClient {
         this.userMode = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
         this.userChannelMode = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
         this.connectionStatus = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
-        this.testChannelName = '#over40';
+        this.testChannelName = '#chatover40';
         this.config = {
             nick: 'Wall`e',
             host: 'localhost',
