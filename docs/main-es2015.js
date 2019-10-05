@@ -2168,17 +2168,15 @@ let YoutubeVideoComponent = class YoutubeVideoComponent {
             this.reframed = false;
             this.player = new window['YT'].Player('youtube-player', {
                 // videoId: this.video,
-                /*
                 playerVars: {
-                  modestbranding: 1, // no youtube logo
-                  wmode: 'transparent',
-                  autoplay: 1,
-                  controls: 0,
-                  fs: 0, // no full screen
-                  rel: 0, // no similar video list at the end
-                  showinfo: 0, // no video info at start
+                    modestbranding: 1,
+                    wmode: 'transparent',
+                    autoplay: 1,
+                    controls: 0,
+                    fs: 0,
+                    rel: 0,
+                    showinfo: 0,
                 },
-                 */
                 width: '100%',
                 height: '100%',
                 events: {
