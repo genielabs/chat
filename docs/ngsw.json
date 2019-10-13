@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1570995653150,
+  "timestamp": 1570997721596,
   "index": "https://genielabs.github.io/chat/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://genielabs.github.io/chat/polyfills-es5.a83ac866abc867bfd530.js",
         "https://genielabs.github.io/chat/runtime-es2015.85f895af57b038f1e5b4.js",
         "https://genielabs.github.io/chat/runtime-es5.85f895af57b038f1e5b4.js",
-        "https://genielabs.github.io/chat/styles.e9b09630fc0c2b725942.css"
+        "https://genielabs.github.io/chat/styles.cf6143aa3b0d0444a0d9.css"
       ],
       "patterns": []
     },
@@ -52,7 +52,7 @@
     "https://genielabs.github.io/chat/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://genielabs.github.io/chat/assets/splash.jpg": "a81e9d16a353f1530f108f2496db98b6e48f5fc1",
     "https://genielabs.github.io/chat/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://genielabs.github.io/chat/index.html": "96ad56b9b13935faf9792fb634d066dd2dc35c7e",
+    "https://genielabs.github.io/chat/index.html": "d49592a6a819c6261f1ad57c9a24c8dfcae77227",
     "https://genielabs.github.io/chat/main-es2015.ca8bd6b00b97d792e869.js": "1620013e55bf1caf84d8614139bc90b35d90107a",
     "https://genielabs.github.io/chat/main-es5.ca8bd6b00b97d792e869.js": "45c102ca33532a165a3214b3f07e699198610afd",
     "https://genielabs.github.io/chat/manifest.webmanifest": "4cf2ccbdf1cd41dba89463e6bffbfefbee6a529c",
@@ -61,7 +61,7 @@
     "https://genielabs.github.io/chat/runtime-es2015.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://genielabs.github.io/chat/runtime-es5.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://genielabs.github.io/chat/splash.f44bf5e401941c775682.jpg": "a81e9d16a353f1530f108f2496db98b6e48f5fc1",
-    "https://genielabs.github.io/chat/styles.e9b09630fc0c2b725942.css": "fc797afb94dafa3b1d1035b7eab9af9bacaef243"
+    "https://genielabs.github.io/chat/styles.cf6143aa3b0d0444a0d9.css": "d3e3211599efd85e410f2ae68b081c189ea82a8b"
   },
   "navigationUrls": [
     {
