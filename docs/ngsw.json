@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1571448191101,
+  "timestamp": 1571449157733,
   "index": "https://genielabs.github.io/chat/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://genielabs.github.io/chat/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://genielabs.github.io/chat/assets/splash.jpg": "a81e9d16a353f1530f108f2496db98b6e48f5fc1",
     "https://genielabs.github.io/chat/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://genielabs.github.io/chat/index.html": "9b7e4cada931b415cf1a2232c9a20d3b15d8b791",
+    "https://genielabs.github.io/chat/index.html": "555acc895af47f2e5b5d08ed02cb5d543d937635",
     "https://genielabs.github.io/chat/main-es2015.8eab23218eb2eae11e9b.js": "6ef69e50aa26f238bce521b160773596ab09dad7",
     "https://genielabs.github.io/chat/main-es5.8eab23218eb2eae11e9b.js": "9b6bdde30bba8a81bdfbb3918259584369f619dd",
     "https://genielabs.github.io/chat/manifest.webmanifest": "4cf2ccbdf1cd41dba89463e6bffbfefbee6a529c",
