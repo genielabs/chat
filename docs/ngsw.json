@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1571523581378,
+  "timestamp": 1571568808056,
   "index": "https://genielabs.github.io/chat/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "https://genielabs.github.io/chat/favicon.ico",
         "https://genielabs.github.io/chat/index.html",
-        "https://genielabs.github.io/chat/main-es2015.096e8a23597c3311c71b.js",
-        "https://genielabs.github.io/chat/main-es5.096e8a23597c3311c71b.js",
+        "https://genielabs.github.io/chat/main-es2015.f2058a672c94d219c51f.js",
+        "https://genielabs.github.io/chat/main-es5.f2058a672c94d219c51f.js",
         "https://genielabs.github.io/chat/manifest.webmanifest",
         "https://genielabs.github.io/chat/polyfills-es2015.0fe6949bc5ff4b784062.js",
         "https://genielabs.github.io/chat/polyfills-es5.a83ac866abc867bfd530.js",
         "https://genielabs.github.io/chat/runtime-es2015.85f895af57b038f1e5b4.js",
         "https://genielabs.github.io/chat/runtime-es5.85f895af57b038f1e5b4.js",
-        "https://genielabs.github.io/chat/styles.706f3270425d8264d24f.css"
+        "https://genielabs.github.io/chat/styles.227740a3da6fbb7c5b5e.css"
       ],
       "patterns": []
     },
@@ -52,16 +52,16 @@
     "https://genielabs.github.io/chat/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://genielabs.github.io/chat/assets/splash.jpg": "a81e9d16a353f1530f108f2496db98b6e48f5fc1",
     "https://genielabs.github.io/chat/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://genielabs.github.io/chat/index.html": "9900b502934fb4c6793ed8b2000ffde2075b34e9",
-    "https://genielabs.github.io/chat/main-es2015.096e8a23597c3311c71b.js": "82a1862c0f70812179616f2daa1259cf83d30e48",
-    "https://genielabs.github.io/chat/main-es5.096e8a23597c3311c71b.js": "d34b3d0a3a5bcade5bed6b08d105878972c38cbf",
+    "https://genielabs.github.io/chat/index.html": "34875cf2ca5cbedcb415ca3350dea49bb1ebd77e",
+    "https://genielabs.github.io/chat/main-es2015.f2058a672c94d219c51f.js": "37c9c86272b2c843601709c1254460d4093b6cde",
+    "https://genielabs.github.io/chat/main-es5.f2058a672c94d219c51f.js": "c056252e828e191a3eed8f7d79d96bee0313d38d",
     "https://genielabs.github.io/chat/manifest.webmanifest": "4cf2ccbdf1cd41dba89463e6bffbfefbee6a529c",
     "https://genielabs.github.io/chat/polyfills-es2015.0fe6949bc5ff4b784062.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "https://genielabs.github.io/chat/polyfills-es5.a83ac866abc867bfd530.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
     "https://genielabs.github.io/chat/runtime-es2015.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://genielabs.github.io/chat/runtime-es5.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://genielabs.github.io/chat/splash.f44bf5e401941c775682.jpg": "a81e9d16a353f1530f108f2496db98b6e48f5fc1",
-    "https://genielabs.github.io/chat/styles.706f3270425d8264d24f.css": "73b26f5a69021ee7acd4ae639dbfb52b9505e816"
+    "https://genielabs.github.io/chat/styles.227740a3da6fbb7c5b5e.css": "8c9358f6b6118c9ab345c24632fb7c374cbfa5d7"
   },
   "navigationUrls": [
     {
