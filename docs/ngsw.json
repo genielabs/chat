@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572093289635,
+  "timestamp": 1572096605206,
   "index": "https://genielabs.github.io/chat/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://genielabs.github.io/chat/favicon.ico",
         "https://genielabs.github.io/chat/index.html",
-        "https://genielabs.github.io/chat/main-es2015.d884239e573263f0777c.js",
-        "https://genielabs.github.io/chat/main-es5.d884239e573263f0777c.js",
+        "https://genielabs.github.io/chat/main-es2015.e0c2f65d6a8c76965d3c.js",
+        "https://genielabs.github.io/chat/main-es5.e0c2f65d6a8c76965d3c.js",
         "https://genielabs.github.io/chat/manifest.webmanifest",
         "https://genielabs.github.io/chat/polyfills-es2015.b60fc36ed103b0ea55cf.js",
         "https://genielabs.github.io/chat/polyfills-es5.501f3705c16cc4ae5c3a.js",
@@ -58,9 +58,9 @@
     "https://genielabs.github.io/chat/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://genielabs.github.io/chat/assets/splash.jpg": "8137dcf2913c0c7af43b70da5d2f8fb50a04ef65",
     "https://genielabs.github.io/chat/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://genielabs.github.io/chat/index.html": "a1c7134a62b41ca03d0a1f280e19daf49de3105b",
-    "https://genielabs.github.io/chat/main-es2015.d884239e573263f0777c.js": "7bd2cfcce9c796f1a46c2cacbc2b4b6d8c475b0f",
-    "https://genielabs.github.io/chat/main-es5.d884239e573263f0777c.js": "4384b56196ebd113d02e8ecaf92e0335ee89a854",
+    "https://genielabs.github.io/chat/index.html": "8165596999882b9a93dc5a915907fe0a1b0d6f85",
+    "https://genielabs.github.io/chat/main-es2015.e0c2f65d6a8c76965d3c.js": "99549b65d21a5459f4443b6b9fd048d30d483877",
+    "https://genielabs.github.io/chat/main-es5.e0c2f65d6a8c76965d3c.js": "7f86ae42a3bf39b3dc6f3ab72fc6b041139f71e2",
     "https://genielabs.github.io/chat/manifest.webmanifest": "4cf2ccbdf1cd41dba89463e6bffbfefbee6a529c",
     "https://genielabs.github.io/chat/polyfills-es2015.b60fc36ed103b0ea55cf.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "https://genielabs.github.io/chat/polyfills-es5.501f3705c16cc4ae5c3a.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
