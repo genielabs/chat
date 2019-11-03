@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572781486094,
+  "timestamp": 1572785249478,
   "index": "/chat/en/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/chat/en/favicon.ico",
         "/chat/en/index.html",
-        "/chat/en/main.9bb0c09f438e9705032a.js",
+        "/chat/en/main.78b872ddf6cf39d2fcf3.js",
         "/chat/en/manifest.webmanifest",
         "/chat/en/polyfills-es5.1b5981ff4e397d945c43.js",
         "/chat/en/polyfills.76c54b166dffa617e09f.js",
@@ -57,8 +57,8 @@
     "/chat/en/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/chat/en/assets/splash.jpg": "8137dcf2913c0c7af43b70da5d2f8fb50a04ef65",
     "/chat/en/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/chat/en/index.html": "841f9fb2a5cfb2a1f8ec901cbce792a84e7a3ca4",
-    "/chat/en/main.9bb0c09f438e9705032a.js": "0cd249c374a84d7708211fb18968ef6417a324fd",
+    "/chat/en/index.html": "1f2b89e31e0e09a484e0e723197984d434113109",
+    "/chat/en/main.78b872ddf6cf39d2fcf3.js": "96ab321e59c3397cd3c798aedfc093c995eb4a7c",
     "/chat/en/manifest.webmanifest": "4cf2ccbdf1cd41dba89463e6bffbfefbee6a529c",
     "/chat/en/polyfills-es5.1b5981ff4e397d945c43.js": "6aa1216bab584ca85acbaab740d9968f5176bf9a",
     "/chat/en/polyfills.76c54b166dffa617e09f.js": "f11bd6337ee5c5f04c3bd016460c07dc722ac072",
