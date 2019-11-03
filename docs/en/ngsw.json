@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1572781486094,
+  "index": "/chat/en/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/chat/en/favicon.ico",
+        "/chat/en/index.html",
+        "/chat/en/main.9bb0c09f438e9705032a.js",
+        "/chat/en/manifest.webmanifest",
+        "/chat/en/polyfills-es5.1b5981ff4e397d945c43.js",
+        "/chat/en/polyfills.76c54b166dffa617e09f.js",
+        "/chat/en/runtime.69aad174de386c36a16c.js",
+        "/chat/en/scripts.10dbcecc69e4e503f00c.js",
+        "/chat/en/styles.05c9d0fbf8722bfece05.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/chat/en/assets/audio/just-like-that.mp3",
+        "/chat/en/assets/audio/notification_2.mp3",
+        "/chat/en/assets/audio/notifications.mp3",
+        "/chat/en/assets/icons/icon-128x128.png",
+        "/chat/en/assets/icons/icon-144x144.png",
+        "/chat/en/assets/icons/icon-152x152.png",
+        "/chat/en/assets/icons/icon-192x192.png",
+        "/chat/en/assets/icons/icon-384x384.png",
+        "/chat/en/assets/icons/icon-512x512.png",
+        "/chat/en/assets/icons/icon-72x72.png",
+        "/chat/en/assets/icons/icon-96x96.png",
+        "/chat/en/assets/splash.jpg",
+        "/chat/en/splash.b95b8bcba2cc59da2220.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/chat/en/assets/audio/just-like-that.mp3": "68a61b73f86dcaa84f11609ed091b575dcf94e8f",
+    "/chat/en/assets/audio/notification_2.mp3": "5ce38b74c56d4dd7e4979b4fb4bb3fc48da01fcd",
+    "/chat/en/assets/audio/notifications.mp3": "7f35723676eb18c22bb3abf16fb002e8c2cae77d",
+    "/chat/en/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/chat/en/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/chat/en/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/chat/en/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/chat/en/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/chat/en/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/chat/en/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/chat/en/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/chat/en/assets/splash.jpg": "8137dcf2913c0c7af43b70da5d2f8fb50a04ef65",
+    "/chat/en/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/chat/en/index.html": "841f9fb2a5cfb2a1f8ec901cbce792a84e7a3ca4",
+    "/chat/en/main.9bb0c09f438e9705032a.js": "0cd249c374a84d7708211fb18968ef6417a324fd",
+    "/chat/en/manifest.webmanifest": "4cf2ccbdf1cd41dba89463e6bffbfefbee6a529c",
+    "/chat/en/polyfills-es5.1b5981ff4e397d945c43.js": "6aa1216bab584ca85acbaab740d9968f5176bf9a",
+    "/chat/en/polyfills.76c54b166dffa617e09f.js": "f11bd6337ee5c5f04c3bd016460c07dc722ac072",
+    "/chat/en/runtime.69aad174de386c36a16c.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/chat/en/scripts.10dbcecc69e4e503f00c.js": "0eb5a9ba1d40354ef57ce98307250f74e050982f",
+    "/chat/en/splash.b95b8bcba2cc59da2220.jpg": "8137dcf2913c0c7af43b70da5d2f8fb50a04ef65",
+    "/chat/en/styles.05c9d0fbf8722bfece05.css": "7d0ca7e342e8e61af6008e5595b95aa57f0164d3"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
