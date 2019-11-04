@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572786267441,
+  "timestamp": 1572853880196,
   "index": "/chat/it/index.html",
   "assetGroups": [
     {
@@ -10,13 +10,13 @@
       "urls": [
         "/chat/it/favicon.ico",
         "/chat/it/index.html",
-        "/chat/it/main.793bf95c1b81b90e928b.js",
+        "/chat/it/main.233071407c3c87abbaae.js",
         "/chat/it/manifest.webmanifest",
         "/chat/it/polyfills-es5.1b5981ff4e397d945c43.js",
         "/chat/it/polyfills.76c54b166dffa617e09f.js",
         "/chat/it/runtime.69aad174de386c36a16c.js",
         "/chat/it/scripts.10dbcecc69e4e503f00c.js",
-        "/chat/it/styles.05c9d0fbf8722bfece05.css"
+        "/chat/it/styles.d34cbf2e7acf5d1d62bf.css"
       ],
       "patterns": []
     },
@@ -57,15 +57,15 @@
     "/chat/it/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/chat/it/assets/splash.jpg": "8137dcf2913c0c7af43b70da5d2f8fb50a04ef65",
     "/chat/it/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/chat/it/index.html": "259cb0aa88cc64633ae9de976e0b52bb277f84cb",
-    "/chat/it/main.793bf95c1b81b90e928b.js": "4cd3c5d49d02ec08b6f093d50fbc3db823fea065",
+    "/chat/it/index.html": "f882e7da1b4148094dfe943edb849b3425eb3d07",
+    "/chat/it/main.233071407c3c87abbaae.js": "83495ccc4a40cc53de40049f24debe859dc36c01",
     "/chat/it/manifest.webmanifest": "4cf2ccbdf1cd41dba89463e6bffbfefbee6a529c",
     "/chat/it/polyfills-es5.1b5981ff4e397d945c43.js": "6aa1216bab584ca85acbaab740d9968f5176bf9a",
     "/chat/it/polyfills.76c54b166dffa617e09f.js": "f11bd6337ee5c5f04c3bd016460c07dc722ac072",
     "/chat/it/runtime.69aad174de386c36a16c.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/chat/it/scripts.10dbcecc69e4e503f00c.js": "0eb5a9ba1d40354ef57ce98307250f74e050982f",
     "/chat/it/splash.b95b8bcba2cc59da2220.jpg": "8137dcf2913c0c7af43b70da5d2f8fb50a04ef65",
-    "/chat/it/styles.05c9d0fbf8722bfece05.css": "7d0ca7e342e8e61af6008e5595b95aa57f0164d3"
+    "/chat/it/styles.d34cbf2e7acf5d1d62bf.css": "9ede4107747dcd6a2b1f43857d56255ad2117d4c"
   },
   "navigationUrls": [
     {
